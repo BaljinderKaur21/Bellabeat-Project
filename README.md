@@ -17,6 +17,9 @@ The analysis focuses on understanding patterns in user activity, sleep patterns,
 - **Promote Healthier Lifestyles:** Suggest improvements and features that encourage users to engage more in physical activities and maintain better sleep patterns.
 - **Refine Marketing Strategy:** Align marketing efforts with data-driven insights to address user needs and preferences effectively.
 
+### Additional Resources
+For a comprehensive view of the project, including detailed analysis and visualizations, please refer to the full BellaBeat Case Study PDF.
+
 ---
 
 ### **Author**
